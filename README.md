@@ -2,18 +2,6 @@
 
 This is a program that uses the [Reddit PushShift API](https://github.com/pushshift/api "Reddit PushShift API") and [Official Reddit API](https://www.reddit.com/dev/api "Official Reddit API") to easily manage a user's Reddit content history as well as migrate and download account data. 
 
-
-## Installation
-A minimum of Python 3.7 is recommended for maximum compatibility.
-
-Use the package manager  [pip](https://pip.pypa.io/en/stable/)  to install this program's dependencies:
-
-```bash
-pip install Pandas
-pip install PySide2
-pip install Praw
-pip install Requests
-```
 ## Setup
 **Gaining API access**
 This program requires access to the Reddit API in order to function. In order to give your account API access:
